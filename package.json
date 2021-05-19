@@ -12,5 +12,9 @@
   "devDependencies": {
     "eslint": "^7.26.0",
     "eslint-config-recommended": "^4.1.0"
+  },
+  "dependencies": {
+    "async": "^3.2.0",
+    "request": "^2.88.2"
   }
 }
